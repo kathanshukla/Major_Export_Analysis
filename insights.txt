@@ -1,0 +1,28 @@
+Wheat:
+
+Between 2010 and 2019, global wheat trade amounted to 2 billion, with a per capita wheat import of 20.21k. Notably, overall wheat imports declined during this period, reaching their peak in 2013.
+
+Specifically in Russia, the year 2018 saw a significant surge in wheat imports, but this trend reversed in 2019 with a noticeable decrease. Similarly, Ukraine experienced a peak in wheat imports in 2016, followed by a gradual decline in subsequent years. These fluctuations indicate dynamic changes in wheat trade patterns within the specified timeframe.
+
+Maize:
+
+Between 2010 and 2019, global maize import and export reached 1 billion. Notably, wheat import per capita averaged 20.67k during this period.
+
+The data reveals a fluctuated upward trend in global maize imports throughout the decade, with a notable peak in 2019. However, in 2018, Russia experienced a surge in maize imports, followed by a decline in 2019. Conversely, Ukraine exhibited a consistent upward trajectory in maize imports from 2010 onwards.
+
+Barley:
+
+From 2010 to 2019, global barley trade saw 313 million imported and 326 million exported. Meanwhile, wheat import per capita averaged 1.44k.
+
+Domestically, the trend in barley import shifted after 2013, witnessing an increasing trend. Intriguingly, the graph illustrating the stock of barley exhibited a unique trajectory, commencing in negative territory in 2010 and surging to its zenith in 2019.
+
+Notably, Russia experienced a surge in barley imports in 2018, only to witness a notable decrease in 2019. Conversely, Ukraine reached its peak in barley imports in 2017.
+
+Sunflower oil:
+
+
+From 2010 to 2019, global Sunflower oil imports totaled 95 million with exports reaching 100 million. The per capita wheat import during this period was 1.96k.
+
+Domestically, Sunflower oil imports in this timeframe initially was almost constant until 2016, after which they began to inclined till 2017 (a peak) and then again decreased. Concurrently, the stock of sunflower oil showed a fluctuated upward trend, reaching its peak in 2017.
+
+Specifically in Russia,till 2018 witnessed slow increasing trend in import, whereas in 2019, there was a highest and sudden peak. Conversely, Ukraine experienced a peak in Sunflower oil imports in 2019.
